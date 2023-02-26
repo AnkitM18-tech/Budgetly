@@ -7,7 +7,7 @@ export default makeStyles((theme) => ({
     },
   },
   mobile: {
-    [theme.breakpoints.down("sm")]: {
+    [theme.breakpoints.down("xs")]: {
       display: "none",
     },
   },
